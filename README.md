@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Abhay Jasrotia, system administrator. Miyamoto Musashi sits with arms crossed at left and a katana stands in the earth at right, drawn in black ink on paper." width="100%" />
+  <img src="banner.svg" alt="Abhay Jasrotia, system administrator. Miyamoto Musashi sits with arms crossed at left and a katana stands in the earth at right, drawn in black ink on paper." width="100%" />
 </p>
 
 <br />
@@ -10,17 +10,17 @@
 </p>
 
 <br />
-<p align="center"><img src="assets/divider.svg" alt="" width="70%" /></p>
+<p align="center"><img src="divider.svg" alt="" width="70%" /></p>
 <br />
 
 <h3 align="center">Skills</h3>
 
 <p align="center">
-  <img src="assets/scrolls.svg" alt="Skills on three scrolls. Systems: Linux, shell scripting, Python, Docker, Git, AWS, Windows Server, Active Directory, Nginx, Ansible. Network: networking, TCP/IP, security, Wireshark, Nmap, Postman. Web: MongoDB, Express, React, Node.js, JavaScript, FastAPI, C, C++." width="100%" />
+  <img src="scrolls.svg" alt="Skills on three scrolls. Systems: Linux, shell scripting, Python, Docker, Git, AWS, Windows Server, Active Directory, Nginx, Ansible. Network: networking, TCP/IP, security, Wireshark, Nmap, Postman. Web: MongoDB, Express, React, Node.js, JavaScript, FastAPI, C, C++." width="100%" />
 </p>
 
 <br />
-<p align="center"><img src="assets/divider.svg" alt="" width="70%" /></p>
+<p align="center"><img src="divider.svg" alt="" width="70%" /></p>
 <br />
 
 <h3 align="center">Now</h3>
@@ -34,7 +34,7 @@
 </p>
 
 <br />
-<p align="center"><img src="assets/divider.svg" alt="" width="70%" /></p>
+<p align="center"><img src="divider.svg" alt="" width="70%" /></p>
 <br />
 
 <h3 align="center">Work</h3>
@@ -53,7 +53,7 @@
 -->
 
 <br />
-<p align="center"><img src="assets/divider.svg" alt="" width="70%" /></p>
+<p align="center"><img src="divider.svg" alt="" width="70%" /></p>
 <br />
 
 <h3 align="center">Contact</h3>
@@ -73,7 +73,7 @@
 <p align="center"><sub><i>Discipline beats motivation.</i></sub></p>
 
 <p align="center">
-  <img src="assets/footer.svg" alt="Musashi leaps across a pale sun above misty mountains, with a katana planted in a grassy mound and crows circling at left." width="100%" />
+  <img src="footer.svg" alt="Musashi leaps across a pale sun above misty mountains, with a katana planted in a grassy mound and crows circling at left." width="100%" />
 </p>
 
 <p align="center"><sub>Fan tribute. Musashi artwork is from <i>Vagabond</i> by Takehiko Inoue, not my own work.</sub></p>
